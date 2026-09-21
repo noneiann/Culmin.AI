@@ -1,0 +1,8 @@
+**/node_modules/**
+**/dist/**
+**/target/**
+**/.git/**
+**/package-lock.json
+**/Cargo.lock
+**/.env
+**/.env.*

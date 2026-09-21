@@ -1,0 +1,18 @@
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated output
+node_modules/
+target/
+dist/
+dist-ssr/
+coverage/
+
+# Local tooling and system files
+*.log
+*.local
+.DS_Store
+.idea/
+.vscode/
